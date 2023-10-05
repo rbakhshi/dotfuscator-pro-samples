@@ -11,6 +11,7 @@ The following samples are available in this repo:
 * [ASP.NET Core](asp.netcore/) demonstrates using Dotfuscator on ASP.NET Core applications.
 * [Reflection](reflection) uses renaming rules to fix issues that occur when using Dotfuscator with applications that make use of dynamic class loading and method invocation.
 * [Serialization](serialization) demonstrates using Dotfuscator in an application that makes use of serialized objects that must be exchanged with non-obfuscated code.
+* [MauiApp1](MauiApp1) demonstrates using Dotfuscator on MAUI applications.
 
 This repo has tags that correspond to the earliest Dotfuscator Professional version number the samples are compatible with. 
 
