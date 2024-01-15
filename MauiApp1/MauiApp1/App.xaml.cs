@@ -7,9 +7,6 @@ namespace MauiApp1
         public App()
         {
             InitializeComponent();
-            
-            Console.WriteLine(new Class1().GetValue());
-            
             MainPage = new AppShell();
         }
     }

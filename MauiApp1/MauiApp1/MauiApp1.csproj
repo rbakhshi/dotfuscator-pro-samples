@@ -76,7 +76,7 @@
 		<DotfuscatorGenerateConfigFileIfMissing>true</DotfuscatorGenerateConfigFileIfMissing>
 
 		<!-- Enable Dotfuscator for Release builds. -->
-		<DotfuscatorEnabled Condition="'$(Configuration)' == 'Release'">true</DotfuscatorEnabled>
+		<DotfuscatorEnabled>true</DotfuscatorEnabled>
 
 	</PropertyGroup>
 
